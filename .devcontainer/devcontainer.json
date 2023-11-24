@@ -19,10 +19,13 @@
   },
   "secrets": {
     "PAYPAL_CLIENT_ID": {
+AZzDb9Orvc17HN-iISsPOO5opyvNlIcU2tOKQnXbi9aZqrAQS53_rwSX7fcMwdfeTi9gKyecfO6eIh0I
+
       "description": "Sandbox client ID of the application.",
       "documentationUrl": "https://developer.paypal.com/dashboard/applications/sandbox"
     },
-    "PAYPAL_CLIENT_SECRET": {
+    "PAYPAL_CLIENT_SECRET": {EJfAQVKTriCTNDeAmOaa9H5prnaMVArE7wEwFoYRi1MzHIijxt6ZPZczegWIceWVMuBKmnAfk5E3j86n`1
+
       "description": "Sandbox secret of the application.",
       "documentationUrl": "https://developer.paypal.com/dashboard/applications/sandbox"
     }
